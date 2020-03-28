@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 
 var amqp = require('amqplib/callback_api');
+
+//módulo para facilitar a conversão do arquivo csv para json
 const csv = require('csv-parser')
 const fs = require('fs')
 const results = [];

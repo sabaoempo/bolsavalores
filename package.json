@@ -1,0 +1,29 @@
+{
+  "name": "rabbit",
+  "version": "1.0.0",
+  "description": "ldamd",
+  "main": "bolsadevalores.js",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqplib": "^0.5.5",
+    "csv-parser": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabaoempo/bolsavalores.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "bolsavalores"
+  ],
+  "author": "Ariel, Karolina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabaoempo/bolsavalores/issues"
+  },
+  "homepage": "https://github.com/sabaoempo/bolsavalores#readme"
+}
